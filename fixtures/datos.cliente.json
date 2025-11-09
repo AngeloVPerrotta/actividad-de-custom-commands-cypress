@@ -1,0 +1,11 @@
+{
+  "nombres": "Pedro",
+  "apellido": "Gomez",
+  "dni": "35123456",
+  "provincia": "Buenos Aires",
+  "localidad": "La Plata",
+  "fechaNacimiento": "01/01/1990",
+  "telefono": "3515551234",
+  "email": "pedro.gomez.prueba@gmail.com",
+  "password": "PassSegura123"
+}
